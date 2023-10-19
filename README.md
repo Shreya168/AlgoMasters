@@ -17,20 +17,20 @@ Installation:
 
 2. If you are using an IDE like Eclipse:
 
--->Open Eclipse.
--->Select "File" > "Open Projects from File System..."
--->Click "Directory" and navigate to the directory where you have saved the source code.
--->Click "Finish."
+    1. Open Eclipse.
+    2. Select "File" > "Open Projects from File System..."
+    3. Click "Directory" and navigate to the directory where you have saved the source code.
+    4. Click "Finish."
 
 3. If you are using the command line:
 
--->Navigate to the project's root directory.
--->Compile the program by running the following command:javac SortingAlgorithms.java
+    1. Navigate to the project's root directory.
+    2. Compile the program by running the following command:javac SortingAlgorithms.java
 
 4. Run the program:
 
--->If you are using Eclipse, you can run the program by right-clicking the SortingAlgorithms.java file and selecting "Run As" > "Java Application."
--->If you are using the command line, run the program with:java SortingAlgorithms
+    1. If you are using Eclipse, you can run the program by right-clicking the SortingAlgorithms.java file and selecting "Run As" > "Java Application."
+    2. If you are using the command line, run the program with:java SortingAlgorithms
 
 Usage:
 Upon running the program, you will be presented with a menu with the following options:
